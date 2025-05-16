@@ -2,10 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Hi%20There!%20I'm%20Khushant%20🔥&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A900&center=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React+Native+Enthusiast+%F0%9F%93%B1;Loves+3D+and+Animation+💫;Crafting+beautiful+UI%2FUX+🧠" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A900&center=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React+Native+Enthusiast+%F0%9F%93%B1;Loves+3D+and+Animation+💫;Crafting+beautiful+UI%2FUX+🧠;Let%27s+build+cool+things!+%F0%9F%92%A1" alt="Typing Animation" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" alt="Coding Hero" />
+</p>
 
 ## 🙇‍♂️ About Me
 
@@ -16,6 +20,7 @@ const khushant = {
   loves: ["Cigarette-smoking 3D loaders", "Responsive design", "Interactive UX"],
   learning: "Backend with Spring Boot",
   coffeeLevel: Infinity,
+  funFact: "I can debug in my dreams 😴"
 };
 ```
 
@@ -24,13 +29,7 @@ const khushant = {
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,tailwind,threejs,figma,firebase,html,css" />
 </p>
 
 ---
@@ -44,7 +43,7 @@ const khushant = {
 > 💡 Clean UI, fully interactive
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
 </p>
 
 ---
@@ -60,6 +59,10 @@ const khushant = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&area=true&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/your-username/count.svg" />
+</p>
+
 ---
 
 ## 📢 Connect With Me
@@ -68,6 +71,7 @@ const khushant = {
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-121212?logo=firefox&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
