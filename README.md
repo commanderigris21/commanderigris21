@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A900&center=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+Native+Enthusiast+%F0%9F%93%B1;Loves+3D+and+Animation+💫;Crafting+beautiful+UI%2FUX+🧠;code.chaos.camera.repeat+%F0%9F%92%A1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A900&center=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+Native+Enthusiast+%F0%9F%93%B1;Loves+3D+and+Animation+%F0%9F%92%AB;Crafting+beautiful+UI%2FUX+%F0%9F%A7%A0;code.chaos.camera.repeat+%F0%9F%92%A1" alt="Typing Animation" />
 </p>
 
 ---
@@ -13,19 +13,18 @@
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" alt="Coding Hero" />
 </p>
 
-## 🙇‍♂️ About Me
+<h2 align="center">🙇‍♂️ About Me</h2>
 
-  <p>
+ <p>
   Role: "Web Developer",<br/>
   Focus: "React, React Native, Next.js, 3D UI, UX",<br/>
   Learning: "Machine Learning with Python",<br/>
   CoffeeLevel: Infinity,<br/>
   FunFact: "I can debug in my dreams 😴"<br/>
   <p/>
-
 ---
 
-## 🚀 Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,tailwind,threejs,figma,firebase,html,css" />
@@ -33,7 +32,7 @@
 
 ---
 
-## 🌟 Highlight Projects
+<h2 align="center">🌟 Highlight Projects</h2>
 
 ### 🔥 [`Introvise`](https://github.com/commanderigris21/introvise)
 > AI-powered Interview Simulator  
@@ -53,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=commanderigris21&show_icons=true&theme=radical&border_radius=10" height="160"/>
@@ -70,10 +69,10 @@
 
 ---
 
-## 📢 Connect With Me
+<h2 align="center">📢 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="khushantubarhande22@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/khushant-ubarhande-b98b30354">
