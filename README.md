@@ -1,8 +1,10 @@
 <!-- Profile Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Hi%20There!%20I'm%20Khushant%20🔥&fontSize=35&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Hi%20There!%20I'm%20Khushant%20🔥&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A900&center=true&width=435&lines=Web+Developer+%F0%9F%92%BB;React+Native+Enthusiast+%F0%9F%93%B1;Loves+3D+and+Animation+💫;Crafting+beautiful+UI%2FUX+🧠;Let%27s+build+cool+things!+%F0%9F%92%A1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A900&center=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+Native+Enthusiast+%F0%9F%93%B1;Loves+3D+and+Animation+💫;Crafting+beautiful+UI%2FUX+🧠;code.chaos.camera.repeat+%F0%9F%92%A1" alt="Typing Animation" />
 </p>
 
 ---
@@ -13,12 +15,13 @@
 
 ## 🙇‍♂️ About Me
 
- <p> "Frontend Developer",
-  Focus: "React, React Native, Next.js, 3D UI, UX, Python, Ideas, ",<br/>
-  Learning: "and Machine Learning",<br/>
-  CoffeeLevel: Infinity<br/>
-  FunFact: "I can debug in my dreams 😴"<br/><p/>
-
+  <p>
+  Role: "Web Developer",<br/>
+  Focus: "React, React Native, Next.js, 3D UI, UX",<br/>
+  Learning: "Machine Learning with Python",<br/>
+  CoffeeLevel: Infinity,<br/>
+  FunFact: "I can debug in my dreams 😴"<br/>
+  <p/>
 
 ---
 
@@ -30,13 +33,19 @@
 
 ---
 
-## 🌟 Highlight Project
+## 🌟 Highlight Projects
 
 ### 🔥 [`Introvise`](https://github.com/commanderigris21/introvise)
 > AI-powered Interview Simulator  
 > ✅ Frontend-only app built in React  
 > 📄 Generates downloadable PDF interview results  
 > 💡 Clean UI, fully interactive
+
+### 🏥 [`Niramay`](https://github.com/commanderigris21/Niramay)
+> Maternal Health Tracker with Trimester-wise Screening  
+> ✅ Built in React Native  
+> 📱 Patient survey, diet plans, condition-based UI rendering  
+> 🔐 Seamless, mobile-optimized UX
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
@@ -91,4 +100,6 @@
 ---
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer" />
+</p>
