@@ -1,5 +1,5 @@
 <!-- Profile Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Hi%20There!%20I'm%20Khushant%20🔥&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Hi%20There!%20I'm%20Khushant%20🔥&fontSize=35&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A900&center=true&width=435&lines=Web+Developer+%F0%9F%92%BB;React+Native+Enthusiast+%F0%9F%93%B1;Loves+3D+and+Animation+💫;Crafting+beautiful+UI%2FUX+🧠;Let%27s+build+cool+things!+%F0%9F%92%A1" alt="Typing Animation" />
@@ -16,7 +16,7 @@
  <p> "Frontend Developer",
   Focus: "React, React Native, Next.js, 3D UI, UX, Python, Ideas, ",<br/>
   Learning: "and Machine Learning",<br/>
-  CoffeeLevel: Infinity,
+  CoffeeLevel: Infinity<br/>
   FunFact: "I can debug in my dreams 😴"<br/><p/>
 
 
