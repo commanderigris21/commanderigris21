@@ -13,10 +13,10 @@
 
 ## 🙇‍♂️ About Me
 <p>
-  role: "Frontend Developer",
-  focus: "React, React Native, Next.js, 3D UI, UX, Django",
-  coffeeLevel: Infinity,
-  funFact: "I can debug in my dreams 😴"
+  Frontend Developer , <br/>
+  focus: "React, React Native, Next.js, 3D UI, UX, Django",<br/>
+  coffeeLevel: Infinity,<br/>
+  funFact: "I can debug in my dreams 😴"<br/>
   </p>
 
 
@@ -47,16 +47,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&border_radius=10" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=commanderigris21&show_icons=true&theme=radical&border_radius=10" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?username=commanderigris21&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=commanderigris21&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" />
+  <img src="https://profile-counter.glitch.me/commanderigris21/count.svg" />
 </p>
 
 ---
