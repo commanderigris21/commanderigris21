@@ -12,15 +12,13 @@
 </p>
 
 ## 🙇‍♂️ About Me
-
-const khushant = {
+<p>
   role: "Frontend Developer",
-  focus: "React, React Native, Next.js, 3D UI, UX",
-  loves: ["Cigarette-smoking 3D loaders", "Responsive design", "Interactive UX"],
-  learning: "Backend with Spring Boot",
+  focus: "React, React Native, Next.js, 3D UI, UX, Django",
   coffeeLevel: Infinity,
   funFact: "I can debug in my dreams 😴"
-};
+  </p>
+
 
 ---
 
@@ -34,7 +32,7 @@ const khushant = {
 
 ## 🌟 Highlight Project
 
-### 🔥 [`Introvise`](https://github.com/commanderigris21/introvise)
+### 🔥 [`Introvise`](https://github.com/your-username/introvise)
 > AI-powered Interview Simulator  
 > ✅ Frontend-only app built in React  
 > 📄 Generates downloadable PDF interview results  
@@ -66,10 +64,12 @@ const khushant = {
 ## 📢 Connect With Me
 
 <p align="center">
-  <a href="khushantubarhande21@gamil.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/khushant-ubarhande-b98b30354"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-121212?logo=firefox&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/commanderigris21"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/commanderigris21/"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://youtube.com/@L0ser2108"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://instagram.com/notkhush.ant"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
