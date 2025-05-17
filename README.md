@@ -78,7 +78,7 @@
   <a href="https://www.linkedin.com/in/khushant-ubarhande-b98b30354">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="#">
+  <a href="https://port-livid-seven.vercel.app/about">
     <img src="https://img.shields.io/badge/Portfolio-121212?logo=firefox&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/commanderigris21/">
